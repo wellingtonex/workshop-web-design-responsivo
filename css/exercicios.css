@@ -20,3 +20,14 @@
 img {
     max-width: 100%;
 }
+
+.logo,
+.busca,
+.barra-nav,
+.menu-principal {
+    display: inline-block;
+    vertical-align: middle;
+}
+.menu-principal li {
+    float: left;
+}
